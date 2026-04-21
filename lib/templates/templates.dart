@@ -1,5 +1,8 @@
 export 'system_prompt_templates/apitool_bodygen_prompt.dart';
 export 'system_prompt_templates/apitool_funcgen_prompt.dart';
+export 'system_prompt_templates/api_assertion_generation_prompt.dart';
+export 'system_prompt_templates/api_chain_builder_prompt.dart';
+export 'system_prompt_templates/api_failure_explanation_prompt.dart';
 export 'system_prompt_templates/intermediate_rep_gen_prompt.dart';
 export 'system_prompt_templates/semantic_analyser_prompt.dart';
 export 'system_prompt_templates/stac_to_flutter_prompt.dart';
